@@ -27,7 +27,7 @@
 -  :spaghetti: &emsp; Pastas
 -  :classical_building: &emsp; Museums & Galleries
 
-
+---
 <!-- Infos -->
 
 ### 📊: &emsp; Stats
