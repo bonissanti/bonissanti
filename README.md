@@ -40,7 +40,7 @@
 </a>
 
 <br><div id="badges">
-    <a href="www.linkedin.com/in/bruno-rodrigues-onissanti">
+    <a href="https://linkedin.com/in/bruno-rodrigues-onissanti">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80"/>
     </a>
         <img alt="bonissant's visitors" src="https://komarev.com/ghpvc/?username=bonissanti&style=flat-square&abbreviated=true&color=yellow"/>
