@@ -11,7 +11,7 @@
 
 
 #### Background
-- 👨‍🎓	&emsp; Postgraduated by SENAC in Marketing Digital & E-Commerce specialization <br>
+- 👨‍🎓	&emsp; Postgraduate in Digital Marketing & E-Commerce specialization from SENAC <br>
 - :art: 	&emsp; Graphic Designer & UX Designer <br>
 - :movie_camera: 	&emsp; Motion Graphic freelancer <br>
 
