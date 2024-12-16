@@ -7,7 +7,7 @@
 - 👨‍💻    &emsp; Software Engineer <br>
 - 💻	&emsp; Cadet @ 42 São Paulo - currently at penultimate project <br>
 - 💻	&emsp; Graduating in Computer Engineering @ UNIVESP
-- ☁️:	&emsp; Studying AWS at @ Escola da Nuvem  <br>
+- ☁️	&emsp; Studying AWS at @ Escola da Nuvem  <br>
 
 
 #### Background
