@@ -20,7 +20,8 @@
 - :runner: &emsp; Love running
 - 🤔 &emsp; Always curious
 - 🎮 &emsp; I'm a retro console collector. Currently I have more than 20 different video games
-- 🏆: &emsp; I won the most random contest ever from Nissin (yeah, that one from noodles)
+- 🏆 &emsp; I won the most random contest ever from Nissin (yeah, that one from noodles)
+- 📟 &emsp; Love low-level programming and Unix systems
 
 #### Likes
 -  :musical_note: &emsp; Music lover
