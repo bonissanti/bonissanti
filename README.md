@@ -55,7 +55,7 @@
 | [_libft_](https://github.com/bonissanti/My_libft)         	| My own library created in C, it reproduces a many standard function. <br>It’s a foundational project that helps you understand the basics of C programming and memory management 	|
 | [_get_next_line_](https://github.com/bonissanti/43SP_02_Get_next_line) 	| In this project, you write a function that reads a line from a file descriptor                                                                                                   	|
 | [_ft_printf_](https://github.com/bonissanti/43SP_03_ft_printf)     	| This project requires you to reimplement the printf function in C. <br>Good to learn about variadic functions and formatted outputs                                              	|
-| [_born3beroot_](https://github.com/bonissanti/42SP_04_Born2beroot)   	| An introduction to sysadmin. In this project you'll set up a virtual machine and <br>configure it to meet specific security and operational requirements                         	|
+| [_born2beroot_](https://github.com/bonissanti/42SP_04_Born2beroot)   	| An introduction to sysadmin. In this project you'll set up a virtual machine and <br>configure it to meet specific security and operational requirements                         	|
 | [_so_long_](https://github.com/bonissanti/43SP_05_So_long)       	| This is a simple 2D game project where you create a small game using the MiniLibX library. <br>I made a basic Super Mario World 😎                                                	|
 | [_pipex_](https://github.com/bonissanti/43SP_06_Pipex)         	| This project focuses on creating a pipeline between commands, similar to how pipes work in UNIX. <br>It helps you understand process creation and inter-process communication    	|
 </details>
