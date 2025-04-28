@@ -4,10 +4,9 @@
 
 ---
 
-- 👨‍💻    &emsp; Software Engineer <br>
-- 💻	&emsp; Cadet @ 42 São Paulo - currently at penultimate project <br>
+- 👨‍💻    &emsp; Software Engineer at Viceri Seidor <br>
+- 💻	&emsp; Cadet @ 42 São Paulo - currently working on the final project <br>
 - 💻	&emsp; Graduating in Computer Engineering @ UNIVESP
-- ☁️	&emsp; Studying AWS at @ Escola da Nuvem  <br>
 
 
 #### Background
