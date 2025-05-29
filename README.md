@@ -32,18 +32,17 @@
 
 ### 📊: &emsp; Stats
 
-<a href="https://github.com/bonissanti/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bonissanti&show_icons=true&locale=en&theme=ayu-mirage&rank_icon=github&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/bonissanti/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonissanti&layout=compact&langs_count=8&theme=ayu-mirage&card_width=320" />
-</a>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bonissanti&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonissanti&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
+</div>
 
-<br><div id="badges">
-    <a href="https://linkedin.com/in/bruno-rodrigues-onissanti">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80"/>
-    </a>
-        <img alt="bonissant's visitors" src="https://komarev.com/ghpvc/?username=bonissanti&style=flat-square&abbreviated=true&color=yellow"/>
+<div align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=bonissanti&theme=midnight-purple&hide_border=false"/>
+</div><br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bonissanti&style=flat-square&color=blueviolet"/>
 </div>
 
 ---
