@@ -33,7 +33,7 @@
 ### 📊: &emsp; Stats
 
 <a href="https://github.com/bonissanti/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bonissanti&show_icons=true&locale=en&theme=ayu-mirage&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bonissanti&show_icons=true&locale=en&theme=ayu-mirage&rank_icon=github&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/bonissanti/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonissanti&layout=compact&langs_count=8&theme=ayu-mirage&card_width=320" />
