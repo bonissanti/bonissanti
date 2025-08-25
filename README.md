@@ -5,7 +5,7 @@
 ---
 
 - 👨‍💻    &emsp; Software Engineer at Viceri Seidor <br>
-- 💻	&emsp; Cadet @ 42 São Paulo - currently working on the final project <br>
+- 💻	&emsp; Cadet @ 42 São Paulo - currently pursuing the 42Advanced specialization <br>
 - 💻	&emsp; Graduating in Computer Engineering @ UNIVESP
 
 
