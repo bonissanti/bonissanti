@@ -31,19 +31,13 @@
 <!-- Infos -->
 
 ### 📊: &emsp; Stats
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=bonissanti&show_icons=true&theme=merko)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=bonissanti&theme=merko)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bonissanti&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonissanti&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
-</div>
-
-<div align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=bonissanti&theme=midnight-purple&hide_border=false"/>
+  <img height="240rm" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bonissanti&layout=donut&theme=merko"/>
 </div><br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bonissanti&style=flat-square&color=blueviolet"/>
-</div>
 
 ---
 <details>
