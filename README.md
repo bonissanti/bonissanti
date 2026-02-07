@@ -31,11 +31,14 @@
 <!-- Infos -->
 
 ### 📊: &emsp; Stats
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=bonissanti&show_icons=true&theme=merko)
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=bonissanti&theme=merko)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-<div align="center">
-  <img height="240rm" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bonissanti&layout=donut&theme=merko"/>
+<div>
+  <div>
+    <img height="200rm" src="https://github-readme-stats-fast.vercel.app/api?username=bonissanti&show_icons=true&theme=merko"/>
+    <img height="200rm" src="https://github-readme-stats-fast.vercel.app/api/streak?username=bonissanti&theme=merko"/>
+  </div>
+  <div align="center">
+    <img height="220rm" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bonissanti&layout=donut&theme=merko"/>
+  </div>
 </div><br>
 
 
