@@ -32,12 +32,9 @@
 
 ### 📊: &emsp; Stats
 <div>
-  <div>
-    <img height="180rm" src="https://github-readme-stats-fast.vercel.app/api?username=bonissanti&show_icons=true&theme=merko"/>
-    <img height="180rm" src="https://github-readme-stats-fast.vercel.app/api/streak?username=bonissanti&theme=merko"/>
-  </div>
   <div align="center">
-    <img height="200rm" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bonissanti&layout=donut&theme=merko"/>
+    <img height="180rm" src="https://github.com/bonissanti/github-stats-transparent/blob/output/generated/languages.svg"/>
+    <img height="180rm" src="https://github.com/bonissanti/github-stats-transparent/blob/output/generated/overview.svg"/>
   </div>
 </div><br>
 
