@@ -4,16 +4,14 @@
 
 ---
 
-- 👨‍💻    &emsp; Software Engineer at Viceri Seidor <br>
+- 👨‍💻	&emsp; Software Engineer at Viceri Seidor <br>
 - 💻	&emsp; Human coder @ 42 São Paulo - currently pursuing the 42Advanced specialization <br>
 - 💻	&emsp; Graduating in Computer Engineering @ UNIVESP
-
 
 #### Background
 - 👨‍🎓	&emsp; Postgraduate in Digital Marketing & E-Commerce specialization from SENAC <br>
 - :art: 	&emsp; Graphic Designer & UX Designer <br>
 - :movie_camera: 	&emsp; Motion Graphic freelancer <br>
-
 
 #### Fun facts
 - :runner: &emsp; Love running
@@ -38,40 +36,73 @@
   </div>
 </div><br>
 
-
 ---
-<details>
- <summary>Projects from 42 São Paulo - Phase 1</summary><br>
 
-| **Projects**     	| **Description**                                                                                                                                                                  	|
-|-----------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| [_libft_](https://github.com/bonissanti/My_libft)         	| My own library created in C, it reproduces a many standard function. <br>It’s a foundational project that helps you understand the basics of C programming and memory management 	|
-| [_get_next_line_](https://github.com/bonissanti/43SP_02_Get_next_line) 	| In this project, you write a function that reads a line from a file descriptor                                                                                                   	|
-| [_ft_printf_](https://github.com/bonissanti/43SP_03_ft_printf)     	| This project requires you to reimplement the printf function in C. <br>Good to learn about variadic functions and formatted outputs                                              	|
-| [_born2beroot_](https://github.com/bonissanti/42SP_04_Born2beroot)   	| An introduction to sysadmin. In this project you'll set up a virtual machine and <br>configure it to meet specific security and operational requirements                         	|
-| [_so_long_](https://github.com/bonissanti/43SP_05_So_long)       	| This is a simple 2D game project where you create a small game using the MiniLibX library. <br>I made a basic Super Mario World 😎                                                	|
-| [_pipex_](https://github.com/bonissanti/43SP_06_Pipex)         	| This project focuses on creating a pipeline between commands, similar to how pipes work in UNIX. <br>It helps you understand process creation and inter-process communication    	|
+### 🚀 Projects by Category
+
+<details>
+ <summary>⚙️ Systems & Low-Level Programming</summary><br>
+
+| **Projects**      | **Description**                                                                                                                                                                  |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [_cpz_](https://github.com/bonissanti/cpz) | A high-performance, multi-threaded `cp` clone built for the modern Linux terminal. |
+| [_Stdlib_Asm_](https://github.com/bonissanti/Stdlib_Asm) | An advanced x86_64 assembly library featuring high-level C data structures (Linked Lists, Hashtables) and stdlib reimplementations. |
+| [_libasm_](https://github.com/bonissanti/42SP_Advanced_libasm) | Foundational introduction to x86_64 assembly language. |
+| [_minishell_](https://github.com/bonissanti/43SP_08_minishell) | A simple UNIX shell (bash clone) created to understand process creation, execution, and signal management. |
+| [_philosophers_](https://github.com/bonissanti/43SP_09_philo) | A solution to the classic dining philosophers problem. Teaches threads, mutexes, and concurrency. |
+| [_pipex_](https://github.com/bonissanti/43SP_06_Pipex) | Recreates the UNIX pipeline (`|`) behavior, exploring process creation and inter-process communication. |
+| [_Core C Libraries_](https://github.com/bonissanti/My_libft) | Re-implementations of the C standard library ([_libft_](https://github.com/bonissanti/My_libft)), formatted output ([_ft_printf_](https://github.com/bonissanti/43SP_03_ft_printf)), and file reading ([_get_next_line_](https://github.com/bonissanti/43SP_02_Get_next_line)). |
 </details>
 
 <details>
-  <summary>Projects from 42 São Paulo - Phase 2</summary><br>
+ <summary>🌐 Web Architecture & Full-Stack</summary><br>
+
+| **Projects**      | **Description**                                                                                                                                                                  |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [_Dr. Mario Backend_](https://github.com/bonissanti/Dr.Mario-backend) | A .NET backend featuring event-driven architecture, modular monolith, Clean Architecture, DDD, CQRS, and PostgreSQL ORM. |
+| [_Dr. Mario Frontend_](https://github.com/bonissanti/Dr.Mario-Front) | The frontend interface for the Dr. Mario full-stack application (WIP). |
+| [_webserv_](https://github.com/bonissanti/43SP_13_Webserv) | A fully functional HTTP server written from scratch in C++98. A deep dive into web infrastructure and sockets. |
+| [_ft_transcendence_](https://github.com/bonissanti/42SP_15_ft_transcendence) | A full-stack web application hosting a real-time multiplayer Pong game, deployed via Docker. |
+| [_CRUD-CSharp-Angular_](https://github.com/bonissanti/CRUD-CSharp-Angular) | A complete full-stack CRUD application using C# for the backend and Angular for the frontend. |
+| [_Portfolio_](https://github.com/bonissanti/Portfolio) | The source code for my personal developer portfolio. |
+</details>
+
+<details>
+ <summary>🎮 Game Dev & Computer Graphics</summary><br>
+
+| **Projects**      | **Description**                                                                                                                                                                  |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [_mini_rt_](https://github.com/bonissanti/43SP_11_MiniRT) | A 3D graphics rendering engine built from scratch using Ray Tracing to simulate how light interacts with objects. |
+| [_so_long_](https://github.com/bonissanti/43SP_05_So_long) | A small 2D game using the MiniLibX library (styled as a Super Mario World clone). |
+</details>
+
+<details>
+ <summary>🧮 Algorithms & Data Structures</summary><br>
+
+| **Projects**      | **Description**                                                                                                                                                                  |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [_Advanced_Rubik_](https://github.com/bonissanti/42SP_Advanced_Rubik) | An algorithm-based solver for the Rubik's Cube. |
+| [_push_swap_](https://github.com/bonissanti/43SP_07_Push_swap) | A highly optimized sorting algorithm that sorts data across two stacks using a strictly limited set of operations. |
+</details>
+
+<details>
+ <summary>🐳 DevOps, Networking & SysAdmin</summary><br>
   
-| **Projects**    	| **Description**                                                                                                                                                                           	|
-|----------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| [_push_swap_](https://github.com/bonissanti/43SP_07_Push_swap)    	| This project challenges you to sort data on a stack with a limited set of operations                                                                                                   |
-| [_minishell_](https://github.com/bonissanti/43SP_08_minishell)    	| In this project, you create a simple shell (bash) that can execute commands 🥶<br>It helps you understand how bash work and how to manage processes                                       	|
-| [_philosophers_](https://github.com/bonissanti/43SP_09_philo) 	| Project based in the classic dining philosopher's problem. <br>It teaches you about threads and concurrency                                                                               	|
-| [_net_practice_](https://github.com/bonissanti/43SP_10_NetPractice) 	| In this project involves setting up and configuring a network. <br>It’s a practical introduction to networking concepts                                                                   	|
-| [_mini_rt_](https://github.com/bonissanti/43SP_11_MiniRT)      	| This project involves creating a simple ray tracer. It is an introduction to ray tracing, which is a 3D graphics <br>rendering technique to simulate how light interacts with objects 	|
+| **Projects**      | **Description**                                                                                                                                                                  |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [_inception_](https://github.com/bonissanti/42SP_14_Inception) | Setting up a multi-container environment using Docker and docker-compose. A practical introduction to containerization. |
+| [_TeamCity_CICD_](https://github.com/bonissanti/TeamCity_CICD) | Setup and configuration of continuous integration and continuous deployment (CI/CD) pipelines using TeamCity. |
+| [_born2beroot_](https://github.com/bonissanti/42SP_04_Born2beroot) | An introduction to sysadmin. Setting up a virtual machine with strict security, LVM, and operational requirements. |
+| [_net_practice_](https://github.com/bonissanti/43SP_10_NetPractice) | Practical exercises for configuring networks, subnetting, and routing. |
 </details>
+
 <details>
-  <summary>Projects from 42 São Paulo - phase 3</summary><br>
-
-| **Project**        	| **Description**                                                                                                                                                                                                                                                                                       	|
-|--------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| [_cpp_module_](https://github.com/bonissanti/43SP_12_CPP)       	| These projects are a series of modules designed to teach you the basics of C++ programming, <br>including object-oriented programming, templates, and the Standard Template Library (STL)                                                                                                             	|
-| [_webserv_](https://github.com/bonissanti/43SP_13_Webserv)          	| My favorite project, this requires you to create a simple HTTP server<br>It’s an introduction to web development and networking.                                                                                                                                                                      	|
-| [_inception_](https://github.com/bonissanti/42SP_14_Inception)        	| This project involves setting up a multi-container Docker environment.<br>It’s a practical introduction to containerization and orchestration                                                                                                                              	|
-| [_ft_transcendence_](https://github.com/bonissanti/42SP_15_ft_transcendence) 	| This project is a full-stack web application that combines everything you’ve learned.<br>It involves creating a web application with a front-end, back-end, database, and deploying it using Docker.<br>Plus: you can consider this project a remake of Atari's game Pong. 	|
-
+ <summary>🛠️ Tools, Linux & Education</summary><br>
+  
+| **Projects**      | **Description**                                                                                                                                                                  |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [_42_examshell_](https://github.com/bonissanti/42_examshell) | A practice exam shell for 42 school students to simulate the official exam environment, updated with newer ranks and subjects. |
+| [_Hyprland_Config_](https://github.com/bonissanti/Hyprland_Config) | My custom dotfiles and configurations for the Hyprland Wayland compositor. |
+| [_github-stats-transparent_](https://github.com/bonissanti/github-stats-transparent) | Transparent SVG generators for GitHub profile statistics. |
+| [_Dotnet_setup_script_](https://github.com/bonissanti/Dotnet_setup_script) | Shell scripting utility to quickly set up boilerplate for .NET development environments. |
 </details>
