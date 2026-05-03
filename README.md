@@ -41,68 +41,72 @@
 ### 🚀 Projects by Category
 
 <details>
- <summary>⚙️ Systems & Low-Level Programming</summary><br>
+  <summary>⚙️ Systems & Low-Level Programming</summary><br>
 
 | **Projects**      | **Description**                                                                                                                                                                  |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [_cpz_](https://github.com/bonissanti/cpz) | A high-performance, multi-threaded `cp` clone built for the modern Linux terminal. |
-| [_Stdlib_Asm_](https://github.com/bonissanti/Stdlib_Asm) | An advanced x86_64 assembly library featuring high-level C data structures (Linked Lists, Hashtables) and stdlib reimplementations. |
 | [_libasm_](https://github.com/bonissanti/42SP_Advanced_libasm) | Foundational introduction to x86_64 assembly language. |
-| [_minishell_](https://github.com/bonissanti/43SP_08_minishell) | A simple UNIX shell (bash clone) created to understand process creation, execution, and signal management. |
-| [_philosophers_](https://github.com/bonissanti/43SP_09_philo) | A solution to the classic dining philosophers problem. Teaches threads, mutexes, and concurrency. |
-| [_pipex_](https://github.com/bonissanti/43SP_06_Pipex) | Recreates the UNIX pipeline (`|`) behavior, exploring process creation and inter-process communication. |
-| [_Core C Libraries_](https://github.com/bonissanti/My_libft) | Re-implementations of the C standard library ([_libft_](https://github.com/bonissanti/My_libft)), formatted output ([_ft_printf_](https://github.com/bonissanti/43SP_03_ft_printf)), and file reading ([_get_next_line_](https://github.com/bonissanti/43SP_02_Get_next_line)). |
+| [_CPP Modules_](https://github.com/bonissanti/42SP_12_CPP) | Object-oriented programming, templates, and the Standard Template Library (STL) in C++. |
+| [_CPP Advanced Bootcamp_](https://github.com/bonissanti/42Imersao_CPP-advanced) | Advanced immersion into C++ concepts and paradigms. |
+| [_minishell_](https://github.com/bonissanti/42SP_08_minishell) | A simple UNIX shell (bash clone) created to understand process creation, execution, and signal management. |
+| [_philosophers_](https://github.com/bonissanti/42SP_09_philo) | A solution to the classic dining philosophers problem. Teaches threads, mutexes, and concurrency. |
+| [_pipex_](https://github.com/bonissanti/42SP_06_Pipex) | Recreates the UNIX pipeline behavior, exploring process creation and inter-process communication. |
+| [_Core C Libraries_](https://github.com/bonissanti/My_libft) | Re-implementations of the C standard library ([_libft_](https://github.com/bonissanti/42SP_01-Libft)), formatted output ([_ft_printf_](https://github.com/bonissanti/42SP_03_ft_printf)), and file reading ([_get_next_line_](https://github.com/bonissanti/42SP_02_Get_next_line)). *Also see my [libft_minishell integration](https://github.com/bonissanti/libft__minishell).* |
 </details>
 
 <details>
- <summary>🌐 Web Architecture & Full-Stack</summary><br>
+  <summary>🌐 Web Architecture & Full-Stack</summary><br>
 
 | **Projects**      | **Description**                                                                                                                                                                  |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [_Dr. Mario Backend_](https://github.com/bonissanti/Dr.Mario-backend) | A .NET backend featuring event-driven architecture, modular monolith, Clean Architecture, DDD, CQRS, and PostgreSQL ORM. |
 | [_Dr. Mario Frontend_](https://github.com/bonissanti/Dr.Mario-Front) | The frontend interface for the Dr. Mario full-stack application (WIP). |
-| [_webserv_](https://github.com/bonissanti/43SP_13_Webserv) | A fully functional HTTP server written from scratch in C++98. A deep dive into web infrastructure and sockets. |
+| [_webserv_](https://github.com/bonissanti/42SP_13_Webserv) | A fully functional HTTP server written from scratch in C++98. A deep dive into web infrastructure and sockets. |
 | [_ft_transcendence_](https://github.com/bonissanti/42SP_15_ft_transcendence) | A full-stack web application hosting a real-time multiplayer Pong game, deployed via Docker. |
-| [_CRUD-CSharp-Angular_](https://github.com/bonissanti/CRUD-CSharp-Angular) | A complete full-stack CRUD application using C# for the backend and Angular for the frontend. |
-| [_Portfolio_](https://github.com/bonissanti/Portfolio) | The source code for my personal developer portfolio. |
+| [_shoelace_](https://github.com/bonissanti/shoelace) | My fork/contributions to the Web Awesome (Shoelace) UI component library. |
 </details>
 
 <details>
- <summary>🎮 Game Dev & Computer Graphics</summary><br>
+  <summary>🎮 Game Dev & Computer Graphics</summary><br>
 
 | **Projects**      | **Description**                                                                                                                                                                  |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [_mini_rt_](https://github.com/bonissanti/43SP_11_MiniRT) | A 3D graphics rendering engine built from scratch using Ray Tracing to simulate how light interacts with objects. |
-| [_so_long_](https://github.com/bonissanti/43SP_05_So_long) | A small 2D game using the MiniLibX library (styled as a Super Mario World clone). |
+| [_mini_rt_](https://github.com/bonissanti/42SP_11_MiniRT) | A 3D graphics rendering engine built from scratch using Ray Tracing to simulate how light interacts with objects. |
+| [_so_long_](https://github.com/bonissanti/42SP_05_So_long) | A small 2D game using the MiniLibX library (styled as a Super Mario World clone). |
 </details>
 
 <details>
- <summary>🧮 Algorithms & Data Structures</summary><br>
+  <summary>🧮 Algorithms & Data Structures</summary><br>
 
 | **Projects**      | **Description**                                                                                                                                                                  |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [_Advanced_Rubik_](https://github.com/bonissanti/42SP_Advanced_Rubik) | An algorithm-based solver for the Rubik's Cube. |
-| [_push_swap_](https://github.com/bonissanti/43SP_07_Push_swap) | A highly optimized sorting algorithm that sorts data across two stacks using a strictly limited set of operations. |
+| [_push_swap_](https://github.com/bonissanti/42SP_07_Push_swap) | A highly optimized sorting algorithm that sorts data across two stacks using a strictly limited set of operations. |
+| [_Stdlib_Asm_](https://github.com/bonissanti/Stdlib_Asm) | An advanced x86_64 assembly library featuring high-level C data structures (Linked Lists, Hashtables) and stdlib reimplementations. |
 </details>
 
 <details>
- <summary>🐳 DevOps, Networking & SysAdmin</summary><br>
+  <summary>🐳 DevOps, Networking & SysAdmin</summary><br>
   
 | **Projects**      | **Description**                                                                                                                                                                  |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [_inception_](https://github.com/bonissanti/42SP_14_Inception) | Setting up a multi-container environment using Docker and docker-compose. A practical introduction to containerization. |
 | [_TeamCity_CICD_](https://github.com/bonissanti/TeamCity_CICD) | Setup and configuration of continuous integration and continuous deployment (CI/CD) pipelines using TeamCity. |
 | [_born2beroot_](https://github.com/bonissanti/42SP_04_Born2beroot) | An introduction to sysadmin. Setting up a virtual machine with strict security, LVM, and operational requirements. |
-| [_net_practice_](https://github.com/bonissanti/43SP_10_NetPractice) | Practical exercises for configuring networks, subnetting, and routing. |
+| [_net_practice_](https://github.com/bonissanti/42SP_10_NetPractice) | Practical exercises for configuring networks, subnetting, and routing. |
 </details>
 
 <details>
- <summary>🛠️ Tools, Linux & Education</summary><br>
+  <summary>🛠️ Tools, Linux & Education</summary><br>
   
 | **Projects**      | **Description**                                                                                                                                                                  |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [_42_examshell_](https://github.com/bonissanti/42_examshell) | A practice exam shell for 42 school students to simulate the official exam environment, updated with newer ranks and subjects. |
-| [_Hyprland_Config_](https://github.com/bonissanti/Hyprland_Config) | My custom dotfiles and configurations for the Hyprland Wayland compositor. |
-| [_github-stats-transparent_](https://github.com/bonissanti/github-stats-transparent) | Transparent SVG generators for GitHub profile statistics. |
+| [_Hyprland Linux Setups_](https://github.com/bonissanti/Hyprland_Config) | My custom dotfiles, configs, and shell utilities for the Hyprland Wayland compositor (including [_Killer_Hyprland_](https://github.com/bonissanti/Killer_Hyprland), [_Lazy-config_](https://github.com/bonissanti/Lazy-config), and [_lazy-config-old_](https://github.com/bonissanti/lazy-config-old)). |
+| [_42_examshell_](https://github.com/bonissanti/42_examshell) | A practice exam shell for 42 school students to simulate the official exam environment, updated with newer ranks. |
+| [_42 Exams Tracking_](https://github.com/bonissanti/42SP_Exam-06) | My personal solutions and trackers for 42 school exams ([_Exam 02_](https://github.com/bonissanti/Exam02), [_Exam 04_](https://github.com/bonissanti/42SP_Exam-04), [_Exam 05_](https://github.com/bonissanti/42SP-Exam05), [_Exam 06_](https://github.com/bonissanti/42SP_Exam-06)). |
+| [_Piscine Reloaded_](https://github.com/bonissanti/Piscine-reloaded) | A recap of key functions and exercises from the 42 São Paulo Piscine basecamp. |
+| [_Grademe-edu_](https://github.com/bonissanti/Grademe-edu) | Grading tool and educational utility for coding projects. |
+| [_Projeto_Integrador_I_](https://github.com/bonissanti/Projeto_Integrador_I) | Academic integration project developed during my Computer Engineering graduation at UNIVESP. |
 | [_Dotnet_setup_script_](https://github.com/bonissanti/Dotnet_setup_script) | Shell scripting utility to quickly set up boilerplate for .NET development environments. |
 </details>
